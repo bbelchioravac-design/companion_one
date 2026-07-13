@@ -6,7 +6,7 @@ Built by someone who spent over a year building AI memory architectures the hard
 
 ## What you get
 
-- **Chat with any model on OpenRouter** (GPT-4o, Claude, Gemini, Llama…) — streaming, images, dictation, one interface
+- **Chat with any model on OpenRouter** (GPT, Claude, Gemini, Llama, Deepseek…) — streaming, images, dictation, one interface
 - **Memory cards** — the heart of it. Write down what your assistant should always remember (project context, working preferences, technical terminology, key decisions). Every active card travels with every message. Toggle cards on/off. You are in full control of the memory — nothing is stored or inferred behind your back
 - **Automatic session summaries** so long conversations never lose the thread
 - **Real privacy:** everything (chats, cards, settings) lives in local files next to the app. Your API key is stored on disk and used server-side only — the browser never sees it. No accounts, no cloud, no telemetry
